@@ -1,0 +1,1 @@
+var CKEDITOR_BASEPATH="/panel/assets/633c0b97/";
